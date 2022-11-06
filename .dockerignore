@@ -1,0 +1,5 @@
+.ipython_checkpoints
+.pytest_cache
+build
+logs
+venv
